@@ -1,4 +1,4 @@
-Blockchain network marketplace, here's the functionality:
+Blockchain Network Marketplace, here's the functionality:
 
 Faucet
 
