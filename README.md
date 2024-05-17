@@ -1,8 +1,11 @@
 Blockchain network marketplace, here's the functionality:
 
 Faucet
+
 • Purpose: Peer fund connection via MetaMask or other wallets.
+
 • Use Case: Allows new users to obtain initial funds to start interacting with the blockchain.
+
 • Mechanism: Users must complete a predefined interaction within the marketplace, such as signing up, connecting to the marketplace network as a peer, and making an initial transaction to purchase an item. The marketplace then receives the amount of cryptocurrency.
 
 Miner
