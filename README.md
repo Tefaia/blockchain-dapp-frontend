@@ -188,7 +188,7 @@ DEPLOYED on CLOUD with Automactic startup. No need to run in the Droplet console
 <img width="960" alt="Dapp Deployed on the CLOUD with Auto Startup im only using incognito due cache issues with my browser" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a25bd888-5a33-4dd9-a118-8c569bd7b2fb">
 
 
-Synchronization in Blockchain Projects
+Synchronization in this Blockchain Project
 
 1.Blockchain Node Synchronization
 
