@@ -213,7 +213,7 @@ Example Workflow
 
 - The back-end node syncs with the blockchain network, confirming the transaction is included in a new block.
 
-5.Back-end to Front-end Update:
+5. Back-end to Front-end Update:
 
 - Once confirmed, the back-end updates its state and pushes this update to the front-end.
 
