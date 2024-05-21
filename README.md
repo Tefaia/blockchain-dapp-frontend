@@ -197,25 +197,21 @@ Full Node: My back-end is running a full node of the blockchain, it should conti
 
 Example Workflow
 
-1.User Interaction:
+1. User Interaction:
 
 - A user performs an action on the front-end (e.g., submitting a transaction).
-
 
 2. Front-end to Back-end Communication:
 
 - The front-end sends the transaction data to the back-end via an API call.
 
-
 3. Back-end Processing:
 
 - The back-end processes the transaction, submits it to the blockchain network, and updates its local state/database.
 
-
 4. Back-end to Blockchain Sync:
 
 - The back-end node syncs with the blockchain network, confirming the transaction is included in a new block.
-
 
 5.Back-end to Front-end Update:
 
